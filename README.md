@@ -30,7 +30,6 @@ Actively seeking a **6-month internship** as **Data Analyst** in the **tech, bus
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/-R%20Markdown-276DC3?style=flat-square&logo=rstudio&logoColor=white" alt="R Markdown" />
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
 ---
