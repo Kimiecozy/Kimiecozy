@@ -39,4 +39,4 @@ Actively seeking a **6-month internship** as **Data Analyst** in the **tech, bus
 - **Email**: thaikimngan0914@icloud.com  
 - **Phone**: +33 6 24 97 95 02
 - **LinkedIn**: [Kim Ngan THAI](https://www.linkedin.com/in/kim-ngan-thai/)
-- **Portfolio**: https://kimiecozy.github.io/portfolio/index.html
+- **Portfolio**: [https://kimiecozy.github.io/portfolio/index.html](https://kimiecozy.github.io/portofolio3/)
